@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="Plant Manager" src=".github/plantmanager.png" width="100%">
+  <img alt="Plant Manager" src="https://raw.githubusercontent.com/rocketseat-education/nlw-05-react-native/main/.github/plantmanager.png" width="100%">
 </p>
 
 ## 🛠 Tecnologias
